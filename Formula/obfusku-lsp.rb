@@ -13,6 +13,6 @@ class ObfuskuLsp < Formula
   end
 
   test do
-    assert_match "obfusku-lsp", shell_output("#{bin}/obfusku-lsp --version 2>&1", 0)
+    assert_match "obfusku-lsp", shell_output("#{bin}/obfusku-lsp --version 2>&1")
   end
 end
