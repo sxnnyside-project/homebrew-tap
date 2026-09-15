@@ -35,6 +35,7 @@ This tap currently distributes CLIs from the Core Red Project, published under t
 
 ## Features
 
+- **obfusku**: Symbolic Primacy, Strict Hindley-Milner, Tail-Call Optimized Programming Language — CLI + Language Server (`obfusku-lsp`).
 - **orph-cli**: Zero-dependency CLI for reliable workflows on offline Raspberry Pi environments.
 - **lacuna-cli**: Minimalist CLI data compression suite built in pure C++20.
 - **psychoquine-cli**: Meta-programming engine that generates quines across 18 languages.
@@ -60,12 +61,21 @@ Or install a formula directly without tapping first:
 brew install sxnnyside-project/tap/<formula>
 ```
 
+### Install Obfusku
+
+```bash
+brew tap sxnnyside-project/tap
+brew install obfusku
+```
+
+This installs both `obfusku` (the language runtime/CLI) and `obfusku-lsp` (the Language Server Protocol server).
+
 ## Usage
 
 ```bash
 brew tap sxnnyside-project/tap
-brew install orph-cli
-orph --help
+brew install obfusku
+obfusku --help
 ```
 
 ## Architecture
