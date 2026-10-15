@@ -1,8 +1,8 @@
 class Obfusku < Formula
   desc "Symbolic Primacy, Strict Hindley-Milner, Tail-Call-Optimized Language"
   homepage "https://github.com/core-red-project/obfusku"
-  url "https://github.com/core-red-project/obfusku/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "0f5b44c9e4805a074ce6382b2c80aca7737b91e8f2cb3295e0f39882150d84ee"
+  url "https://github.com/core-red-project/obfusku/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "1f9f4984b529b543c726978690236fd0bb3fe19b71f751c5706a013dbeaa08d6"
   license "MIT"
   head "https://github.com/core-red-project/obfusku.git", branch: "main"
 
