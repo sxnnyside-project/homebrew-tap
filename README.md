@@ -35,6 +35,8 @@ This tap currently distributes CLIs from the Core Red Project, published under t
 
 ## Features
 
+- **animoria**: Find unused and duplicate visual assets (Lottie, Rive, SVG) in app and game projects.
+- **debuggatha**: Repo-aware code reviewer for AI coding agents with rule-traced findings.
 - **obfusku**: Symbolic Primacy, Strict Hindley-Milner, Tail-Call Optimized Programming Language — CLI + Language Server (`obfusku-lsp`).
 - **orph-cli**: Zero-dependency CLI for reliable workflows on offline Raspberry Pi environments.
 - **lacuna-cli**: Minimalist CLI data compression suite built in pure C++20.
@@ -100,6 +102,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">
-  <strong>Sxnnyside Project Tap</strong> — Sxnnyside Project<br>
+  <strong>Sxnnyside Project Tap</strong> — A Sxnnyside Project<br>
   <em>&copy; 2026 Sxnnyside Project</em>
 </p>

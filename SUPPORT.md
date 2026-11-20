@@ -5,6 +5,12 @@
 **GitHub Issues**
 For bugs or unexpected behavior, open an [issue](https://github.com/sxnnyside-project/homebrew-tap/issues). Use the bug report template and include enough context to reproduce the problem.
 
+**Discord**
+For questions, general discussion, or anything that isn't a bug — join the Sxnnyside Project community at [discord.gg/h3hhNY8VTE](https://discord.gg/h3hhNY8VTE).
+
+**Email**
+For anything that doesn't fit the channels above — `support.sxnnyside@sxnnysideproject.com`.
+
 ---
 
 ## Before Asking
@@ -21,4 +27,4 @@ For security vulnerabilities, see [SECURITY.md](SECURITY.md).
 
 ---
 
-*Sxnnyside Project Tap is part of the [Sxnnyside Project](https://sxnnysideproject.com).*
+*Sxnnyside Project Tap — A Sxnnyside Project. Part of the [Sxnnyside Project](https://sxnnysideproject.com) ecosystem.*

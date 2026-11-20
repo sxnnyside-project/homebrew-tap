@@ -5,7 +5,7 @@
 If you find a security vulnerability in **Sxnnyside Project Tap**, report it privately before disclosing it publicly.
 
 **Preferred channel:**
-Email — `legal.sxnnyside@sxnnysideproject.com`
+Email — `security.sxnnyside@sxnnysideproject.com`
 
 **Alternative:**
 [GitHub Private Security Advisory](https://github.com/sxnnyside-project/homebrew-tap/security/advisories/new)
@@ -49,4 +49,4 @@ For ecosystem-wide security concerns, use the email above.
 
 ---
 
-*Sxnnyside Project Tap is part of the [Sxnnyside Project](https://sxnnysideproject.com).*
+*Sxnnyside Project Tap — A Sxnnyside Project. Part of the [Sxnnyside Project](https://sxnnysideproject.com) ecosystem.*

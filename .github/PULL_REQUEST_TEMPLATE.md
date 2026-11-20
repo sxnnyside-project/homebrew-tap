@@ -15,7 +15,7 @@
 
 ## Checklist
 
-- [ ] Builds without errors
+- [ ] Builds without errors (passes the same gate as CI — see `CLAUDE.md`)
 - [ ] `CHANGELOG.md` updated under `[Unreleased]`
 - [ ] Commits follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [ ] Tests added or updated where applicable

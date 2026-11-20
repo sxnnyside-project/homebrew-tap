@@ -46,7 +46,7 @@ For larger features, an issue discussion first avoids wasted effort on both side
 
 Before submitting:
 
-- [ ] The project builds without errors
+- [ ] The project builds without errors (passes the same gate as CI — see `CLAUDE.md`)
 - [ ] Changes are described in [CHANGELOG.md](CHANGELOG.md) under `[Unreleased]`
 - [ ] The PR description explains what changed and why
 - [ ] New behavior is covered by tests where applicable
@@ -80,9 +80,9 @@ Accepted types:
 Examples:
 
 ```
-feat: add offline fallback for config reads
+feat: add animoria formula
 fix: prevent crash when scripts directory is missing
-docs: update installation steps for cross-compilation
+docs: update installation steps
 chore: bump dependencies to latest stable
 ```
 
@@ -96,4 +96,4 @@ If something in the codebase is unclear, open an issue with the `question` label
 
 ---
 
-*Sxnnyside Project Tap is part of the [Sxnnyside Project](https://sxnnysideproject.com).*
+*Sxnnyside Project Tap — A Sxnnyside Project. Part of the [Sxnnyside Project](https://sxnnysideproject.com) ecosystem.*
