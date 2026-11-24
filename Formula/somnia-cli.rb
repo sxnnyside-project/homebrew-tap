@@ -1,6 +1,6 @@
 class SomniaCli < Formula
   desc "Zero-allocation procedural audio generator CLI for desktop & AVR"
-  homepage "https://github.com/core-red-project/somnia"
+  homepage "https://somnia.sxnnysideproject.com/en/"
   url "https://github.com/core-red-project/somnia/archive/refs/tags/v0.5.0.tar.gz"
   sha256 "c61086d510d1a70204c321a6b5e62a29a776f4d5711c2d77e84bfd6bf9436485"
   license "MIT"

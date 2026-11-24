@@ -2,7 +2,7 @@ class TensorsuggestliteCli < Formula
   include Language::Python::Virtualenv
 
   desc "Configuration-driven text classification with TFLite export"
-  homepage "https://github.com/core-red-project/tensorsuggestlite"
+  homepage "https://extensions.sxnnysideproject.com/en/tensorsuggestlite/"
   url "https://github.com/core-red-project/tensorsuggestlite/archive/refs/tags/v2.1.0.tar.gz"
   sha256 "bf48aad43693bc35603492c307408a0003ddfeb13ef6159e58bc33d2ebc35430"
   license "MIT"
