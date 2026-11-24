@@ -3,8 +3,8 @@ class TensorsuggestliteCli < Formula
 
   desc "Configuration-driven text classification with TFLite export"
   homepage "https://github.com/core-red-project/tensorsuggestlite"
-  url "https://github.com/core-red-project/tensorsuggestlite/archive/refs/tags/v2.0.0.tar.gz"
-  sha256 "d6014555b85ccb834919bee3b42acacfe9dcf2b12ee10b78f11abb52d310fb70"
+  url "https://github.com/core-red-project/tensorsuggestlite/archive/refs/tags/v2.1.0.tar.gz"
+  sha256 "bf48aad43693bc35603492c307408a0003ddfeb13ef6159e58bc33d2ebc35430"
   license "MIT"
   head "https://github.com/core-red-project/tensorsuggestlite.git", branch: "main"
 
