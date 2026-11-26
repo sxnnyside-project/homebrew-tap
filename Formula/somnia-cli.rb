@@ -3,7 +3,7 @@ class SomniaCli < Formula
   homepage "https://somnia.sxnnysideproject.com/en/"
   url "https://github.com/core-red-project/somnia/archive/refs/tags/v0.6.0.tar.gz"
   sha256 "8485d3de2ae853cf3e2701a0133715bf6034fac6cabe1a6fcc2ddfe5d8593616"
-  license "MIT"
+  license "MPL-2.0"
   head "https://github.com/core-red-project/somnia.git", branch: "main"
 
   depends_on "cmake" => :build
